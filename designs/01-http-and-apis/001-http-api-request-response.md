@@ -95,3 +95,7 @@ For a quick task insert, wait for the save and return `201`. For a long-running 
 After two or three days, redraw the create-task exchange from memory and explain when you would choose `201` or `202`.
 
 [HTTP status code definitions in RFC 9110](https://www.rfc-editor.org/rfc/rfc9110.html#section-15)
+
+---
+
+[Curriculum index](../../README.md) · [Next: 002](../../designs/01-http-and-apis/002-rest-resource-and-endpoint-design.md)
